@@ -12,3 +12,7 @@ This repository will have Projects related to Selenium Automation Framework. The
 - Cucumber BDD with Parallel Execution on Grid
 
 
+# Daily Reading Log
+
+# DAY 001:
+I started with learning Data Driven Test Framework. Created a new Maven Project. 
