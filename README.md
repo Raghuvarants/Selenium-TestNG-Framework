@@ -15,4 +15,8 @@ This repository will have Projects related to Selenium Automation Framework. The
 # Daily Reading Log
 
 # DAY 001:
-I started with learning Data Driven Test Framework. Created a new Maven Project. 
+I started with learning Data Driven Test Framework. Created a new Maven Project. Created packages for test cases , test data and logs. Created the base class to access config and OR file. 
+
+TIL: How to access Config and OR file independent of project location using "user.dir"
+
+
