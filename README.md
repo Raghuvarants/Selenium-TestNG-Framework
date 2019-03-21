@@ -18,5 +18,5 @@ This repository will have Projects related to Selenium Automation Framework. The
 Started with Data Driven Test Framework. Created a new Maven Project. Created packages for test cases , test data and logs. Created the base class to access config and OR file. 
 
 # Day 002:
-
+Set up the Testbase and login test to call the browser properties and OR properties in test case.  Added the log4j file to the project setup. Added TestNG assertion to the Login Test.
 
